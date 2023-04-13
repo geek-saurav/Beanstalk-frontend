@@ -1,0 +1,54 @@
+.nav_brand {
+  font-family: "Poppins-Bold";
+}
+
+.green_highlight {
+  color: #33c481;
+}
+
+.navLink {
+  text-decoration: none;
+  color: #000;
+  font-family: "Inconsolata-Regular";
+  font-size: 20px;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.navLink:hover {
+  color: #000;
+  text-decoration: underline;
+  text-decoration-color: #33c481;
+}
+
+.hamburgerButton {
+  border: 1px solid #d3d3d3;
+  border-radius: 5px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.navbar {
+  border-bottom: 1px solid #eaeaf2;
+}
+
+.getStartedButton {
+  background-color: #fff;
+  font-family: "Inconsolata-Regular";
+  border: 2px solid #33c481;
+  border-radius: 25px;
+  padding: 5px 10px;
+  color: #000;
+  font-size: 18px;
+}
+
+.getStartedButton:hover {
+  background-color: #33c481;
+  font-family: "Inconsolata-Regular";
+  border: none;
+  border-radius: 25px;
+  padding: 5px 10px;
+  color: #fff;
+}
